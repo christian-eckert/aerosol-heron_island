@@ -16,6 +16,7 @@ library(tidyverse)
 library(minpack.lm)
 library(pracma)
 library(here)
+library(svglite)
 
 # Define base project directory ---------------------------------------------
 project_dir <- here::here()
