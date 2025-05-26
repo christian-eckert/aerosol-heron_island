@@ -1,5 +1,7 @@
 # aerosol-heron_island
 
+![Vertical profile graphical abstract near One Tree Island](graphics/aero_hi.png)
+
 ## Aerosol size distribution analysis workflow from Heron Island (Great Barrier Reef)
 
 This repository contains example R scripts to process, analyse, and visualise airborne aerosol data collected with a DJI Matrice 600 drone and a Brechtel Model 9405 Miniaturised Optical Particle Counter (mOPC). 
